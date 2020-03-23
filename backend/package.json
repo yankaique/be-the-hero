@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend desenvolvido na semana omnistack 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankaique/semana_omnistack_11.git"
+  },
+  "author": "Yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yankaique/semana_omnistack_11/issues"
+  },
+  "homepage": "https://github.com/yankaique/semana_omnistack_11#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
